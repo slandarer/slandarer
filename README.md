@@ -9,6 +9,27 @@ Such as:
 ## MATLAB special effects
 
 
+**Something beautiful!!!**
+<p float="left">
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/rose2.jpg" width="200"/>
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/roseball1.png" width="200"/>
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/crystallheart.png" width="200"/>
+</p>
+<p float="left">
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/heart33.jpg" width="200"/>
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/crystall.png" width="200"/>
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/lolita.png" width="200"/>
+</p>
+
+**Something Cool!!!**
+
+<p float="left">
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/fargate.png" width="200"/>
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/characterText.jpg" width="200"/>
+<img src="https://github.com/slandarer/slandarer/blob/main/gallery/effects/wiredraw.png" width="200"/>
+</p>
+
+
 ## MATLAB Tools
 
 
